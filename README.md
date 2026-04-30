@@ -29,6 +29,7 @@ If something I built saved you time, a small tip is always appreciated
 
 |₿ BTC | `1A2VTik6NBY4jSHt6m5RXx5dMLynwijTTt` |
 |---|---|
-|Ξ ETH  | `0xC0eaA89ba9E5800B69da4fAD7349B9Fb507CAE7f`| 
 
+|Ξ ETH  | `0xC0eaA89ba9E5800B69da4fAD7349B9Fb507CAE7f`| 
+|---|---|
 <div align="center"><sub>Everything else lives at <a href="https://doodz.dev">https://doodz.dev</a></sub></div>
