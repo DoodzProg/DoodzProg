@@ -27,6 +27,8 @@
 
 If something I built saved you time, a small tip is always appreciated
 
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=UFY7N3WCJ5T4E)
+
 |₿ BTC | `1A2VTik6NBY4jSHt6m5RXx5dMLynwijTTt` |
 |---|---|
 
