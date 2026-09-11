@@ -21,19 +21,6 @@
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DoodzProg&show_icons=true&hide_border=true&theme=default&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoodzProg&layout=compact&hide_border=true&theme=default" />
-
-</div>
-
-<div align="left">
-
----
-
 ## YouTube
 
 - **[Doodz](https://www.youtube.com/c/Doodz)** — Outdoor, bushcraft, IT, woodworking, storytelling — my playground, my rules.
